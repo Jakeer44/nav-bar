@@ -1,0 +1,61 @@
+
+.navbar {
+    background-color: rgb(47, 101, 148);
+    font-family: Arial;
+    font-size: 20px;
+    height: 50px;
+    width: aut0;
+    color: azure;
+    margin-right: 10px;
+    
+    }
+    .navbar ul{
+        display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-top: 15px;
+    padding-right: 30px;
+    }
+
+    h1 {
+        text-align: center;
+        color: antiquewhite;
+    }
+
+    .mohan {
+        background-image: url('https://i.pinimg.com/originals/9c/f7/64/9cf764ffa58e7a61dda71fd572f52379.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+        padding-left: 10px;
+        width: 1200px;
+        
+    }
+
+    #irfan {
+    padding-left: 15px;
+    padding-top: 30px;
+    }
+
+    h2 {
+        text-align: center;
+        color: red;
+        font-size: 40px;
+        margin-top: 10px;
+    }
+
+    p {
+        color: azure;
+        font-size: 25px;
+        text-align: center;
+    }
+
+    button {
+        background-color: orangered;
+        color: antiquewhite;
+        text-align: center;
+        margin-top: 40px;
+        justify-items: center;
+        margin-left: 550px;
+        border-radius: 10px;
+    }
